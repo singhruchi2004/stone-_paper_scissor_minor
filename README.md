@@ -1,0 +1,1 @@
+# stone-_paper_scissor_minor
